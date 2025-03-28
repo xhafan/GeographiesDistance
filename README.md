@@ -1,7 +1,7 @@
 GeographiesDistance project contains:
 * `PostgresGeographyDistanceCalculator` which calculates
 distance in meters between two geographies using postgres/postgis. 
-* ``when_calculating_geography_distance`` tests.
+* ``when_calculating_geography_distance`` which contains tests.
 
 To run the tests, do this:
 1. Install postgres/postgis
